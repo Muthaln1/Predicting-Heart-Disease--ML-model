@@ -1311,6 +1311,7 @@ print(f'Accuracy of the Test Set:{accuracy:.0f}%')
 + By using combined features like `FastingBS`,`Oldpeak`,`ST_Slope_Flat`,`ST_Slope_Up` & `ExerciseAngina_Y`, I achieved an accuracy of 82% on the validation set and 85% on the test set
 + As the KNN classifier is based on the nearest neighbours there might be a difference of margin calssification compared to Linera SVC
 
+#### Importing libraries for Linear SVC
 
 ```python
 from sklearn.svm import LinearSVC
@@ -1318,7 +1319,7 @@ from sklearn.svm import LinearSVC
 model = LinearSVC(penalty="l2",loss="squared_hinge",C=10,random_state=417)
 ```
 
-
+#### Model fitting the training dataset 
 ```python
 model.fit(X_train_sca,y_train)
 ```
@@ -1336,7 +1337,7 @@ model.fit(X_train_sca,y_train)
 
 
 
-
+#### Accuracy score using validation dataset
 ```python
 val_accuracy = model.score(X_val_sca,y_val)
 print(f'Accuracy of the Validation dataset via SVC Model:{val_accuracy*100:.0f}%')
@@ -1345,6 +1346,7 @@ print(f'Accuracy of the Validation dataset via SVC Model:{val_accuracy*100:.0f}%
     Accuracy of the Validation dataset via SVC Model:82%
 
 
+#### Accuracy score using Test dataset
 
 ```python
 test_accuracy = model.score(X_test_sca,y_test)
