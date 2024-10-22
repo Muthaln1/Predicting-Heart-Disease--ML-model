@@ -1021,7 +1021,7 @@ plt.show()
 
 
     
-![png](output_83_0.png)
+![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/Correlation%20Matrix.png)
     
 
 
