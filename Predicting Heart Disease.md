@@ -545,7 +545,7 @@ data['Cholesterol'].hist(figsize=(10,6),color='skyblue', edgecolor='black')
 
 
     
-![png](output_47_1.png)
+![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/Cholestrol%20distribution.png)
     
 
 
