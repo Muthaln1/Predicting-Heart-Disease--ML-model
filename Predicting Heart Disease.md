@@ -534,6 +534,11 @@ data['Cholesterol'].describe()
 ```python
 # Distribution of Cholesterol field is skewed to the right
 data['Cholesterol'].hist(figsize=(10,6),color='skyblue', edgecolor='black')
+plt.title('Cholesterol Distribution')  
+plt.xlabel('Cholesterol Level')         # X-axis label
+plt.ylabel('Frequency')                  # Y-axis label
+plt.grid(axis='y', alpha=0.75)         
+plt.show()
 ```
 
 
@@ -545,7 +550,7 @@ data['Cholesterol'].hist(figsize=(10,6),color='skyblue', edgecolor='black')
 
 
     
-![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/Cholestrol%20distribution.png)
+![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/Cholestrol%20Distribution.png)
     
 
 
@@ -807,6 +812,11 @@ print(MaxHR)
 ```python
 # Distribution of 'MaxHR' field is slightly skewed to the left
 data['MaxHR'].hist(figsize=(10,6),color='lightgrey', edgecolor='black')
+plt.title('Maximum Heart Rate Distribution')  
+plt.xlabel('MaxHR Level')         # X-axis label
+plt.ylabel('Frequency')                  # Y-axis label
+plt.grid(axis='y', alpha=0.75)         
+plt.show()
 ```
 
 
@@ -818,7 +828,7 @@ data['MaxHR'].hist(figsize=(10,6),color='lightgrey', edgecolor='black')
 
 
     
-![png](output_67_1.png)
+![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/MaxHR%20Distribution.png)
     
 
 
