@@ -1042,7 +1042,7 @@ sns.heatmap(correlation_matrix[correlation_matrix > 0.15], annot=True, cmap="Red
 
 
     
-![png](output_85_1.png)
+![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/Correlation%20Matrix%20above%201.5.png)
     
 
 
