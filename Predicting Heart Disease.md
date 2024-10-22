@@ -441,7 +441,7 @@ plt.show()
 
 
     
-![png](output_37_0.png)
+![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/Individuals%20count%20by%20Heart%20Disease%20and%20Age.png)
     
 
 
