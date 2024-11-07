@@ -297,7 +297,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/Categorical%20feature%20charts.png)
     
 
 
@@ -374,7 +374,7 @@ plt.show()
 
 
     
-![png](output_28_0.png)
+![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/Box%20Plot%20of%20Age%20HD.png)
     
 
 
