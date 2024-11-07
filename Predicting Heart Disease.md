@@ -485,7 +485,7 @@ plt.show()
 
 
     
-![png](output_40_0.png)
+![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/count%20of%20Individuals%20with%20no%20heart%20disease%20by%20Age.png)
     
 
 
@@ -579,7 +579,7 @@ plt.show()
 
 
     
-![png](output_50_0.png)
+![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/Cholestrol%20Distribution.png)
     
 
 
@@ -733,7 +733,7 @@ plt.show()
 
 
     
-![png](output_63_0.png)
+![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/Box%20Plot%20of%20Cholestrol%20HD%20.png)
     
 
 
