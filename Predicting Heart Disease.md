@@ -763,7 +763,7 @@ plt.show()
 
 
     
-![png](output_67_0.png)
+![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/Distribution%20of%20Oldpeak%20levels%20by%20Age.png)
     
 
 
@@ -969,7 +969,7 @@ plt.show()
 
 
     
-![png](output_82_0.png)
+![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/MaxHR%20Distribution.png)
     
 
 
@@ -989,7 +989,7 @@ plt.show()
 
 
     
-![png](output_84_0.png)
+![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/Box%20Plot%20of%20MaxHR%20by%20HD%20Category.png)
     
 
 
@@ -1178,7 +1178,7 @@ plt.show()
 
 
     
-![png](output_99_0.png)
+![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/Correlation%20Matrix.png)
     
 
 
@@ -1193,7 +1193,7 @@ plt.show()
 
 
     
-![png](output_101_0.png)
+![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/Correlation%20Matrix%20above%201.5.png)
     
 
 
@@ -2133,7 +2133,7 @@ plt.show()
 
 
     
-![png](output_160_0.png)
+![png](https://github.com/Muthaln1/Predicting-Heart-Disease--ML-model/blob/main/Odds%20against%20the%20Probability%20for%20Cholestrol.png)
     
 
 
